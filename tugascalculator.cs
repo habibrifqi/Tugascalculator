@@ -55,7 +55,7 @@ namespace kalkulator
 			}
 			else
 			{
-				Console.WriteLine(maaf,menu yg anda pilih tidak tersedia");
+				Console.WriteLine("maaf,menu yg anda pilih tidak tersedia");
 			}
 			
 			}
